@@ -10,7 +10,7 @@ Meetings are open to members and invited guests. If you would like to attend a m
 * June 18-19, Bay Area CA plenary meeting
 * June 25, 8 a.m. PST Teleconference (cancelled)
 * Aug. 7, 8 a.m. PST Teleconference
-* TBD Fall Pelenary (US East coast)
 * Sept. 18, 8 a.m. PST Teleconference (coincides with TPAC)
-* Oct. 30, 8 a.m. PST Teleconference
-* Dec. 11, 8 a.m. PST Teleconference
+* Oct. 29-30, Boston plenary meeting
+* Nov. 20, 8 a.m. PST Teleconference
+* Dec. 11, 10 a.m. JST joint workshop with Ecma GA in Japan
