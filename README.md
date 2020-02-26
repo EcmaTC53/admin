@@ -5,10 +5,9 @@ Organizational administration repository for TC53.
 
 Meetings are open to members and invited guests. If you would like to attend a meeting please reach out to @jorydotcom, @phoddie, @patrickluthi or another collaborator on this repo. Alternatively you can open an issue on this repository. Our upcoming meetings are:
 
-* Nov. 20, 2019 - 8 a.m. PST Teleconference
-* Dec. 11, 2019 - 10 a.m. JST joint workshop with Ecma GA in Japan
-* Jan. 15, 2020 -  8 a.m. PST Teleconference
-* Feb. 25-26, 2020 - Houston plenary meeting
+* March 25, 2020 - Teleconference
+* May 6, 2020 - Teleconference
+* June 10, 2020 - Teleconference
 * June 23-24, 2020 - Bay Area CA plenary meeting
 * Oct. 14-15, 2020 - Boston plenary meeting
 
@@ -20,4 +19,8 @@ Meetings are open to members and invited guests. If you would like to attend a m
 * Aug. 7, 2019 - Teleconference
 * Sept. 18, 2019 - Teleconference (coincides with TPAC)
 * Oct. 29-30, 2019 - Boston plenary meeting
+* Nov. 20, 2019 - 8 a.m. PST Teleconference
+* Dec. 11, 2019 - 10 a.m. JST joint workshop with Ecma GA in Japan
+* Jan. 15, 2020 -  8 a.m. PST Teleconference
+* Feb. 25-26, 2020 - Bay Area CA plenary meeting
 
