@@ -8,7 +8,7 @@ Meetings are open to members and invited guests. If you would like to attend a m
 * March 25, 2020 - Teleconference
 * May 6, 2020 - Teleconference
 * June 10, 2020 - Teleconference
-* June 23-24, 2020 - Bay Area CA plenary meeting
+* June 25-26, 2020 - Austin, TX plenary meeting
 * Oct. 14-15, 2020 - Boston plenary meeting
 
 ### Past Meetings
