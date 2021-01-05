@@ -5,8 +5,12 @@ Organizational administration repository for TC53.
 
 Meetings are open to members and invited guests. If you would like to attend a meeting please reach out to @jorydotcom, @phoddie, @patrickluthi or another collaborator on this repo. Alternatively you can open an issue on this repository. Our upcoming meetings are:
 
-* November 18, 2020 - Teleconference (8:00 am - 10:00 am PST)
-* December 16, 2020 - Teleconference (8:00 am - 10:00 am PST)
+* January 20, 2021 - Teleconference (8:00 am - 10:00 am PST)
+* February 17, 2021 - Teleconference (8:00 am - 10:00 am PST)
+* March 17, 2021 - Teleconference (8:00 am - 10:00 am PDT)
+* April 21, 2021 - Teleconference (8:00 am - 10:00 am PDT)
+* May 19, 2021 - Teleconference (8:00 am - 10:00 am PDT)
+* June 16, 2021 - Teleconference (8:00 am - 10:00 am PDT)
 
 ### Past Meetings
 * April 2, 2019 - Teleconference 
@@ -27,3 +31,5 @@ Meetings are open to members and invited guests. If you would like to attend a m
 * August 19, 2020 - Teleconference
 * September 16, 2020 - Teleconference
 * October 21, 2020 - Teleconference
+* November 18, 2020 - Teleconference
+* December 16, 2020 - Teleconference
