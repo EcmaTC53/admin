@@ -5,10 +5,15 @@ Organizational administration repository for TC53.
 
 Meetings are open to members and invited guests. If you would like to attend a meeting please reach out to @phoddie, @patrickluthi, or another collaborator on this repo. Alternatively you can open an issue on this repository. Our upcoming meetings are:
 
-* May 18, 2022 - Teleconference (8:00 am - 10:00 am PST)
-* June 15, 2022 - Teleconference (8:00 am - 10:00 am PDT)
-* July 20, 2022 - Teleconference (8:00 am - 10:00 am PDT)
-* August 17, 2022 - Teleconference (8:00 am - 10:00 am PDT)
+* April 19, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* May 17, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* June 21, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* July 19, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* August 16, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* September 20, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* October 18, 2023 - Teleconference (8:00 am - 10:00 am PDT)
+* November 15, 2023 - Teleconference (8:00 am - 10:00 am PST)
+* December 20, 2023 - Teleconference (8:00 am - 10:00 am PST)
 
 ### Past Meetings
 * April 2, 2019 - Teleconference 
@@ -47,3 +52,13 @@ Meetings are open to members and invited guests. If you would like to attend a m
 * February 16, 2022 - Teleconference
 * March 16, 2022 - Teleconference
 * April 20, 2022 - Teleconference
+* May 18, 2022 - Teleconference
+* June 15, 2022 - Teleconference
+* July 20, 2022 - Teleconference
+* September 21, 2022 - Teleconference
+* October 19, 2022 - Teleconference
+* November 16, 2022 - Teleconference
+* December 21, 2022 - Teleconference
+* January 18, 2023 - Teleconference
+* February 15, 2023 - Teleconference
+* March 15, 2023 - Teleconference
