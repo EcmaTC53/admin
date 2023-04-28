@@ -1,12 +1,14 @@
 ## Converting Markdown specs to Ecma-style docx specs
 
-**Last updated:** March 25, 2021
+**Last updated:** April 28, 2023
 
 ### Overview
 
 This document explains how to convert the Markdown spec document to a docx file in the Ecma style.
 
 These instructions are written for macOS users. They should be easy to adapt for Windows/Linux users.
+
+This process takes some time because of the manual formatting steps required. The full conversion of ECMA-419 2nd Edition took at least six hours.
 
 ### Instructions
 
@@ -46,7 +48,7 @@ These instructions are written for macOS users. They should be easy to adapt for
 	open ecma-template.docx
 	```
 	
-6. Copy and paste the text from `spec.docx` into `ecma-template.docx`. The styles will not look quite right during this step; that's ok--it will be fixed in the next steps.
+6. Copy and paste the text from `spec.docx` into `ecma-template.docx`. The styles will not look correct after this step; that's ok--you will fix them the following steps.
 
 7. Open the styles pane.
 
@@ -74,3 +76,10 @@ These instructions are written for macOS users. They should be easy to adapt for
 	- Add term numbers to the Terms and Definitions section
 	- Left align all of the code blocks
 	- Update all of the numbering in the formal algorithms (in annex A) so they restart in each section
+	- Update copyright year in page footers
+
+10. The markdown document does not contain the following. They must be added manually
+
+	- title page
+	- table of contents (generated based on style headings)
+
