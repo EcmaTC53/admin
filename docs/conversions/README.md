@@ -1,6 +1,6 @@
 ## Converting Markdown specs to Ecma-style docx specs
 
-**Last updated:** April 28, 2023
+**Last updated:** March 10, 2025
 
 ### Overview
 
@@ -70,12 +70,22 @@ This process takes some time because of the manual formatting steps required. Th
 	
 	![](./assets/table-format.png)
 	
+	- Table headers (first row)
+		- Paragraph format "Keep with Next"
+		- Background shade of light gray
+	- Set first column:
+		- "Autofit Contents"
+		- Left justification
+	- All the rows of the table must have Table > Row > "Allow row to break across pages" disabled (unchecked)
+	
 9. Make the following manual edits:
 
-	- Remove the duplicate numbers in the headers
+	- Remove the duplicate numbers in the top level headers
 	- Add term numbers to the Terms and Definitions section
-	- Left align all of the code blocks
-	- Update all of the numbering in the formal algorithms (in annex A) so they restart in each section
+	- Code blocks
+		- Left align
+		- Apply Verbatim Char + Not Bold
+	- Update the numbering in each formal algorithms section (annex A) to restart in each section
 	- Update copyright year in page footers
 
 10. The markdown document does not contain the following. They must be added manually
